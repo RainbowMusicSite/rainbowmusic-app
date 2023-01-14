@@ -1,0 +1,7 @@
+{
+  "name": "RainbowMusic", 
+  "main": "index.js",  
+  "scripts": {
+    "start": "electron ."
+  }
+}
